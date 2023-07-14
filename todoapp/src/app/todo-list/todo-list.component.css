@@ -1,0 +1,12 @@
+.completed-task {
+    text-decoration: line-through;
+  }
+  #container{
+    background-image: linear-gradient(to bottom right, rgb(234, 123, 166), rgb(133, 173, 229));
+    height: 550px;
+    width: 550px;
+    position: relative;
+    right: -30em;
+    bottom: -5em;
+  }
+  
